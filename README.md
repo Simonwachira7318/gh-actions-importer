@@ -72,7 +72,7 @@ The GitHub Actions Importer labs repository contains platform-specific learning 
 
 ## Product roadmap
 
-To learn about new features coming to GitHub Actions Importer, see the [GitHub Public Roadmap](https://github.com/orgs/github/projects/4247).
+For information on the upcoming enhancements for GitHub Actions Importer, refer to ; [GitHub Public Roadmap](https://github.com/orgs/github/projects/4247).
 
 ## How to offer feedback or make a feature request
 
